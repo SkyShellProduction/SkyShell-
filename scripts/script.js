@@ -124,10 +124,6 @@ searchForm.addEventListener('submit', event =>{
     }
     searchForminput.value = ''; 
 })
-{
-  
-}
-
 
 //открытие и закрытие меню
 const closeDropdown = ()=>{
